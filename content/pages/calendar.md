@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: f77a6c24-1cb9-53dd-dbc5-b4700a3d3c35
 ---
@@ -122,7 +124,7 @@ pp. 720–34.
 L 7
 {{< tdclose >}}
 {{< tdopen >}}
-Stratospheric chemistry 1: OX, HOX, NOX
+Stratospheric chemistry 1: O{{< sub "X" >}}, HO{{< sub "X" >}}, NO{{< sub "X" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 pp. 138–62.
@@ -137,7 +139,7 @@ PSet 1
 L 8
 {{< tdclose >}}
 {{< tdopen >}}
-Stratospheric chemistry 2: ClOX, BrOX
+Stratospheric chemistry 2: ClO{{< sub "X" >}}, BrO{{< sub "X" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 pp. 162–95.
@@ -167,7 +169,7 @@ Handout (Not available)
 L 10
 {{< tdclose >}}
 {{< tdopen >}}
-Tropospheric chemistry 1: NOX and HOX
+Tropospheric chemistry 1: NO{{< sub "X" >}} and HO{{< sub "X" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 pp. 204–19.
@@ -182,7 +184,7 @@ PSet 2
 L 11
 {{< tdclose >}}
 {{< tdopen >}}
-Tropospheric chemistry 2: CO and CH4
+Tropospheric chemistry 2: CO and CH{{< sub "4" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 pp. 219–35.

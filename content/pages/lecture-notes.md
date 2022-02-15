@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 178ea197-7eb2-e787-a214-ae3d0809dbef
 ---
@@ -76,7 +79,7 @@ L 6
 L 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Stratospheric chemistry 1: OX, HOX, NOX (PDF)]({{< baseurl >}}/resources/mit1_84jf13_lec7_strat1)
+[Stratospheric chemistry 1: O{{< sub "X" >}}, HO{{< sub "X" >}}, NO{{< sub "X" >}} (PDF)]({{< baseurl >}}/resources/mit1_84jf13_lec7_strat1)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +88,7 @@ L 7
 L 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Stratospheric chemistry 2: ClOX, BrOX (PDF)]({{< baseurl >}}/resources/mit1_84jf13_lec8_strat2)
+[Stratospheric chemistry 2: ClO{{< sub "X" >}}, BrO{{< sub "X" >}} (PDF)]({{< baseurl >}}/resources/mit1_84jf13_lec8_strat2)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +106,7 @@ Guest lecture: Stratospheric geoengineering (Lecture notes not available)
 L 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Tropospheric chemistry 1: NOX and HOX (PDF)]({{< baseurl >}}/resources/mit1_84jf13_lec10_trop1)
+[Tropospheric chemistry 1: NO{{< sub "X" >}} and HO{{< sub "X" >}} (PDF)]({{< baseurl >}}/resources/mit1_84jf13_lec10_trop1)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +115,7 @@ L 10
 L 11
 {{< tdclose >}}
 {{< tdopen >}}
-[Tropospheric chemistry 2: CO and CH4 (PDF)]({{< baseurl >}}/resources/mit1_84jf13_lec11_trop2)
+[Tropospheric chemistry 2: CO and CH{{< sub "4" >}} (PDF)]({{< baseurl >}}/resources/mit1_84jf13_lec11_trop2)
 {{< tdclose >}}
 
 {{< trclose >}}

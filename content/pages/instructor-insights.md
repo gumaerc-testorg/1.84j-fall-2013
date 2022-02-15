@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: e68cf478-fb43-5243-fee3-1274208795c6
 ---
@@ -33,20 +35,6 @@ None
 ### Offered
 
 Every fall semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A typical classroom with rows of seats, as well as chalkboards and a projector screen at the front of the class.]({{< resource_file eee58c37-630c-17f5-5f64-a24d025f2c17 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    1.84 was taught in a traditional classroom equipped with chalkboards and projectors.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

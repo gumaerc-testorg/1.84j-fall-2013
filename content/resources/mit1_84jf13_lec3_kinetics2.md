@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 178ea197-7eb2-e787-a214-ae3d0809dbef
 resourcetype: Document
 title: 'Chemical kinetics 2: Reaction mechanisms '
 uid: 115e5123-53d5-deb0-1c08-27af2152cb0f

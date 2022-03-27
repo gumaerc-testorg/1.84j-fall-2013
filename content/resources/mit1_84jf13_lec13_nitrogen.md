@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 178ea197-7eb2-e787-a214-ae3d0809dbef
 resourcetype: Document
 title: Reactive (oxidized) nitrogen chemistry
 uid: dd363702-6acd-6cf6-aa43-a3e28d176eb2

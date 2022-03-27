@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 178ea197-7eb2-e787-a214-ae3d0809dbef
 resourcetype: Document
 title: 'Atmospheric aerosol 2: climate effects'
 uid: 1d3a23e7-3544-5ef3-50de-664d28c998f7

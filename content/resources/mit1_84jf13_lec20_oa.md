@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 178ea197-7eb2-e787-a214-ae3d0809dbef
 resourcetype: Document
 title: Aerosol chemistry (organic)
 uid: 432e422c-5bf0-33cf-b39c-4c13a56b7077

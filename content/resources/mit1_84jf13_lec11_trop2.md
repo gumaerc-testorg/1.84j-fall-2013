@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 178ea197-7eb2-e787-a214-ae3d0809dbef
 resourcetype: Document
 title: 'Tropospheric chemistry 2: CO and CH4'
 uid: 055d204e-1ba0-aacf-66b0-435304373ea0

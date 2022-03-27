@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 178ea197-7eb2-e787-a214-ae3d0809dbef
 resourcetype: Document
 title: Photochemistry and spectroscopy 2
 uid: 95a7fad5-e0b5-9b19-1465-d5a5c94e199c

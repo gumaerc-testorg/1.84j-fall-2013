@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 178ea197-7eb2-e787-a214-ae3d0809dbef
 resourcetype: Document
 title: 'Atmospheric aerosol 1: size, physics'
 uid: 2318ba47-394c-3c08-fef9-c25e59125530

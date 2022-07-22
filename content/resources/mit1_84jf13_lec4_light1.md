@@ -6,6 +6,7 @@ file: /courses/1-84j-atmospheric-chemistry-fall-2013/34ce8164cd7d7b8fca909e6fe3f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,5 +16,3 @@ title: Photochemistry and spectroscopy 1
 uid: 34ce8164-cd7d-7b8f-ca90-9e6fe3fb3c66
 ---
 This file contains the information regarding photochemistry and spectroscopy.
-
-

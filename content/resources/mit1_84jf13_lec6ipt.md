@@ -5,6 +5,7 @@ file: /courses/1-84j-atmospheric-chemistry-fall-2013/b052805cf0fbf513df58ed78e9d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Temperature, pressure, radiance
 uid: b052805c-f0fb-f513-df58-ed78e9d39c1f
 ---
 This file contains the information regarding temperature, pressure, radiance.
-

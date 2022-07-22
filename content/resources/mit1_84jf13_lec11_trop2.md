@@ -6,6 +6,7 @@ file: /courses/1-84j-atmospheric-chemistry-fall-2013/055d204e1ba0aacf66b04353043
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Tropospheric chemistry 2: CO and CH4'
 uid: 055d204e-1ba0-aacf-66b0-435304373ea0
 ---
 This is a resource file that contains information regarding tropospheric chemistry.
-

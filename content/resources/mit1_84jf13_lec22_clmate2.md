@@ -6,6 +6,7 @@ file: /courses/1-84j-atmospheric-chemistry-fall-2013/6de23371ca388c391fb8d14ed40
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Atmospheric chemistry and climate 2
 uid: 6de23371-ca38-8c39-1fb8-d14ed40f2801
 ---
 This file contains the information regarding atmospheric chemistry and climate 2.
-

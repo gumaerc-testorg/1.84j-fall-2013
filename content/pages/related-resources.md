@@ -8,8 +8,8 @@ title: Related Resources
 uid: b9406c64-20e5-f0b2-2d0c-7a830ada71ee
 ---
 
-[Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Jet Propulsion Laboratory Publication No. 10–6](http://jpldataeval.jpl.nasa.gov/)
+{{% resource_link "90300d49-db7d-463e-acab-62b4d19cf173" "Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Jet Propulsion Laboratory Publication No. 10–6" %}}
 
-[IUPAC Kinetics / Photochemistry Data Evaluation](http://www.iupac-kinetic.ch.cam.ac.uk/)
+{{% resource_link "f555815f-4c6a-43d4-9b46-0b5daf7f9bb1" "IUPAC Kinetics / Photochemistry Data Evaluation" %}}
 
-[NIST Chemical Kinetics Database](http://kinetics.nist.gov/kinetics/index.jsp)
+{{% resource_link "a590bf80-ba21-45f7-b1a4-5ce7e863efde" "NIST Chemical Kinetics Database" %}}

@@ -22,9 +22,9 @@ Seinfeld, John H., and Spyros N. Pandis. *Atmospheric Chemistry and Physics: Fro
 
 Other useful textbooks include:
 
-Jacob, Daniel. *Introduction to Atmospheric Chemistry.* Princeton University Press, 1999. ISBN: 9780691001852. \[Preview with {{% resource_link "427189ae-513d-4c24-bc17-1181999de392" "Google Books" %}}\]. This textbook is also {{% resource_link "ae600d7b-4998-4280-98f1-bfb4003b3968" "available online" %}}.
+Jacob, Daniel. *Introduction to Atmospheric Chemistry.* Princeton University Press, 1999. ISBN: 9780691001852. \[Preview with [Google Books](http://books.google.com/books?id=7B8EEn_sj0cC&printsec=frontcover)\]. This textbook is also [available online](https://acmg.seas.harvard.edu/education/introduction-atmospheric-chemistry).
 
-Finlayson-Pitts, Barbara J., and James N. Pitts. *Chemistry of the Upper and Lower Atmosphere: Theory, Experiments, and Applications*. Academic Press, 1999. ISBN: 9780122570605. \[Preview with {{% resource_link "aa696d19-0f50-414d-b1e0-70804f1051e1" "Google Books" %}}\]
+Finlayson-Pitts, Barbara J., and James N. Pitts. *Chemistry of the Upper and Lower Atmosphere: Theory, Experiments, and Applications*. Academic Press, 1999. ISBN: 9780122570605. \[Preview with [Google Books](http://books.google.com/books?id=mRoJUB5fxRwC&printsec=frontcover)\]
 
 ## Grading
 

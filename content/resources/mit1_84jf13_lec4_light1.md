@@ -3,6 +3,7 @@ content_type: resource
 description: "This file contains the information regarding photochemistry and spectroscopy.\r\
   \n"
 file: /courses/1-84j-atmospheric-chemistry-fall-2013/34ce8164cd7d7b8fca909e6fe3fb3c66_MIT1_84JF13_Lec4_light1.pdf
+file_size: 468074
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -4,6 +4,7 @@ description: This is a resource file that contains information regarding stratos
   chemistry.
 draft: false
 file: /courses/1-84j-atmospheric-chemistry-fall-2013/a9d63e18d04eb7cff4a87ddc7bb9f9bc_MIT1_84JF13_Lec8_strat2.pdf
+file_size: 768504
 file_type: application/pdf
 image_metadata:
   caption: ''

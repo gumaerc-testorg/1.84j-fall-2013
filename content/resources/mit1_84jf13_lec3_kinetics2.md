@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding chemical kinetics 2-reaction
   mechanisms.
-file: /courses/1-84j-atmospheric-chemistry-fall-2013/115e512353d5deb01c0827af2152cb0f_MIT1_84JF13_Lec3_kinetics2.pdf
+file: /ol-ocw-studio-app/courses/1-84j-atmospheric-chemistry-fall-2013/115e512353d5deb01c0827af2152cb0f_MIT1_84JF13_Lec3_kinetics2.pdf
 file_size: 293910
 file_type: application/pdf
 learning_resource_types:

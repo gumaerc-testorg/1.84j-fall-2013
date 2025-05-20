@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding atmospheric aerosol 2-climate
   effects.
-file: /ol-ocw-studio-app/courses/1-84j-atmospheric-chemistry-fall-2013/1d3a23e735445ef350de664d28c998f7_MIT1_84JF13_Lec18_aroslWatr.pdf
+file: /courses/1-84j-atmospheric-chemistry-fall-2013/1d3a23e735445ef350de664d28c998f7_MIT1_84JF13_Lec18_aroslWatr.pdf
 file_size: 432004
 file_type: application/pdf
 learning_resource_types:

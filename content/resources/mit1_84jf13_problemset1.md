@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contain the information regarding problem sets.
-file: /ol-ocw-studio-app/courses/1-84j-atmospheric-chemistry-fall-2013/74a924020a7aee1635b04dd713c43f1a_MIT1_84JF13_ProblemSet1.pdf
+file: /courses/1-84j-atmospheric-chemistry-fall-2013/74a924020a7aee1635b04dd713c43f1a_MIT1_84JF13_ProblemSet1.pdf
 file_size: 90306
 file_type: application/pdf
 learning_resource_types:

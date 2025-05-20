@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding atmospheric organic chemistry.
-file: /ol-ocw-studio-app/courses/1-84j-atmospheric-chemistry-fall-2013/b89f5d5fe4c42c4fa8135150a77cb429_MIT1_84JF13_Lec12_orgo.pdf
+file: /courses/1-84j-atmospheric-chemistry-fall-2013/b89f5d5fe4c42c4fa8135150a77cb429_MIT1_84JF13_Lec12_orgo.pdf
 file_size: 449005
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding chemical kinetics 1-reaction
   rates.
-file: /ol-ocw-studio-app/courses/1-84j-atmospheric-chemistry-fall-2013/2ad7eaba000b770595a604bdb6a6f310_MIT1_84JF13_Lec2_kinetics1.pdf
+file: /courses/1-84j-atmospheric-chemistry-fall-2013/2ad7eaba000b770595a604bdb6a6f310_MIT1_84JF13_Lec2_kinetics1.pdf
 file_size: 238768
 file_type: application/pdf
 learning_resource_types:

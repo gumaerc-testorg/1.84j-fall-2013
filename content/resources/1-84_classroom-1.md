@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/1-84j-atmospheric-chemistry-fall-2013/eee58c37630c17f55f64a24d025f2c17_1-84_classroom-1.jpg
+file: /courses/1-84j-atmospheric-chemistry-fall-2013/eee58c37630c17f55f64a24d025f2c17_1-84_classroom-1.jpg
 file_size: 56379
 file_type: image/jpeg
 image_metadata:

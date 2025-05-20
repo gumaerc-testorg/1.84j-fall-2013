@@ -3,7 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding tropospheric
   chemistry.
 draft: false
-file: /ol-ocw-studio-app/courses/1-84j-atmospheric-chemistry-fall-2013/055d204e1ba0aacf66b0435304373ea0_MIT1_84JF13_Lec11_trop2.pdf
+file: /courses/1-84j-atmospheric-chemistry-fall-2013/055d204e1ba0aacf66b0435304373ea0_MIT1_84JF13_Lec11_trop2.pdf
 file_size: 490391
 file_type: application/pdf
 image_metadata:

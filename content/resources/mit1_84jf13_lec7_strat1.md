@@ -3,7 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding stratospheric
   chemistry.
 draft: false
-file: /ol-ocw-studio-app/courses/1-84j-atmospheric-chemistry-fall-2013/268b1b598ffd96ff8735e48c21eaf2f9_MIT1_84JF13_Lec7_strat1.pdf
+file: /courses/1-84j-atmospheric-chemistry-fall-2013/268b1b598ffd96ff8735e48c21eaf2f9_MIT1_84JF13_Lec7_strat1.pdf
 file_size: 630431
 file_type: application/pdf
 image_metadata:

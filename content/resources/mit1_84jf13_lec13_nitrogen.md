@@ -2,7 +2,7 @@
 content_type: resource
 description: "This file contains the information regarding reactive (oxidized) nitrogen\
   \ chemistry.\r\n"
-file: /courses/1-84j-atmospheric-chemistry-fall-2013/dd3637026acd6cf6aa43a3e28d176eb2_MIT1_84JF13_Lec13_nitrogen.pdf
+file: /ol-ocw-studio-app/courses/1-84j-atmospheric-chemistry-fall-2013/dd3637026acd6cf6aa43a3e28d176eb2_MIT1_84JF13_Lec13_nitrogen.pdf
 file_size: 459508
 file_type: application/pdf
 learning_resource_types:
